@@ -1,14 +1,15 @@
-ÕâÊÇÒ»¸ö°üº¬´íÎóµÄÏîÄ¿
+è¿™æ˜¯ä¸€ä¸ªåŒ…å«é”™è¯¯çš„é¡¹ç›®
 
-´íÎóµÄÃèÊöÊÇÕâÑùµÄ£º
+é”™è¯¯çš„æè¿°æ˜¯è¿™æ ·çš„ï¼š
 
-²¶»ñ1.JPG:
+æ•è·1.JPG:
 class test.App_Code.HTTP
-"C:\code\test\test\App_Code\HTTP.cs"ÖĞµÄÀàĞÍ"HTTP"Óë"test,Version=1.0.0.0,Culture=neutral,PublicKeyToken=null"ÖĞµÄµ¼ÈëÀàĞÍ"HTTP"³åÍ»¡£ÇëÊ¹ÓÃ"C:\code\test\test\App_Code\HTTP.cs"ÖĞ¶¨ÒåµÄÀàĞÍ¡£
+"C:\code\test\test\App_Code\HTTP.cs"ä¸­çš„ç±»å‹"HTTP"ä¸"test,Version=1.0.0.0,Culture=neutral,PublicKeyToken=null"ä¸­çš„å¯¼å…¥ç±»å‹"HTTP"å†²çªã€‚è¯·ä½¿ç”¨"C:\code\test\test\App_Code\HTTP.cs"ä¸­å®šä¹‰çš„ç±»å‹ã€‚
 
-²¶»ñ2.JPG:
-ÎŞ·¨½«ÀàĞÍ"test.App_Code.HTTP.METHOD[App_Web_taut0g5v,Version=0.0.0.0,Cultrue=neutral,PublicKeyToken=null]"ÒşÊ½×ª»»Îª"test.App_Code.HTTP.METHOD[App_Web,Version=0.0.0.0,Cultrue=neutral,PublicKeyToken=null]"¡£´æÔÚÒ»¸öÏÔÊ¾×ª»»£¨ÊÇ·ñÈ±ÉÙÇ¿ÖÆ×ª»»£¿£©
+æ•è·2.JPG:
+æ— æ³•å°†ç±»å‹"test.App_Code.HTTP.METHOD[App_Web_taut0g5v,Version=0.0.0.0,Cultrue=neutral,PublicKeyToken=null]"éšå¼è½¬æ¢ä¸º"test.App_Code.HTTP.METHOD[App_Web,Version=0.0.0.0,Cultrue=neutral,PublicKeyToken=null]"ã€‚å­˜åœ¨ä¸€ä¸ªæ˜¾ç¤ºè½¬æ¢ï¼ˆæ˜¯å¦ç¼ºå°‘å¼ºåˆ¶è½¬æ¢ï¼Ÿï¼‰
 
-¼òµ¥½éÉÜÒ»ÏÂÎÒµÄÏë·¨
-Ò»¸öHTTPÀà£¬ÀïÃæÓĞ¸öÃ¶¾ÙÀàĞÍ£¬½ĞMETHOD£¬È»ºóÁíÍâÒ»¸öÄ£ĞÍÀà£¬½ĞPackageModel£¬ÆäÖĞÒ»¸öÊôĞÔ¾ÍÊÇHTTP.METHOD£¬È»ºóÔÚPreroutingÀàÖĞÓĞÒ»¸ö·½·¨£¬RoutePackage£¬ÆäÖĞÒ»¸ö²ÎÊı¾ÍÊÇHTTP.METHOD£¬È»ºóÔÚ·½·¨ÄÚ²¿Ê¹ÓÃÕâ¸ö²ÎÊıÊ±£¬¾Í»á³öÏÖÕâ¸ö´íÎó£¡
+ç®€å•ä»‹ç»ä¸€ä¸‹æˆ‘çš„æƒ³æ³•
+ä¸€ä¸ªHTTPç±»ï¼Œé‡Œé¢æœ‰ä¸ªæšä¸¾ç±»å‹ï¼Œå«METHODï¼Œç„¶åå¦å¤–ä¸€ä¸ªæ¨¡å‹ç±»ï¼Œå«PackageModelï¼Œå…¶ä¸­ä¸€ä¸ªå±æ€§å°±æ˜¯HTTP.METHODï¼Œç„¶ååœ¨Preroutingç±»ä¸­æœ‰ä¸€ä¸ªæ–¹æ³•ï¼ŒRoutePackageï¼Œå…¶ä¸­ä¸€ä¸ªå‚æ•°å°±æ˜¯HTTP.METHODï¼Œç„¶ååœ¨æ–¹æ³•å†…éƒ¨ä½¿ç”¨è¿™ä¸ªå‚æ•°æ—¶ï¼Œå°±ä¼šå‡ºç°è¿™ä¸ªé”™è¯¯ï¼
 
+æˆ‘å¾ˆå¥½å¥‡ä¸ºä»€ä¹ˆä¼šè¿™æ ·ï¼Œå¤§å®¶è¯´æ˜¯å¼•ç”¨äº†è‡ªèº«ï¼Œä½†æ˜¯æˆ‘æ— è®ºåœ¨é¡¹ç›®å±æ€§çš„å¼•ç”¨ï¼Œè¿˜æ˜¯è§£å†³æ–¹æ¡ˆèµ„æºç®¡ç†å™¨çš„å¼•ç”¨ï¼Œéƒ½æ²¡æœ‰æ‰¾åˆ°å¼•ç”¨è‡ªèº«çš„æ¡ç›®ã€‚
